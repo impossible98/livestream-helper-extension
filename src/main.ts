@@ -1,6 +1,8 @@
 setTimeout(function () {
-  const mask: HTMLElement | null = document.querySelector('#web-player-module-area-mask-panel')
+  const mask: HTMLElement | null = document.querySelector(
+    '#web-player-module-area-mask-panel',
+  );
   if (mask) {
-    mask.style.display = "none"
+    mask.style.display = 'none';
   }
-}, 5000)
+}, 1000);

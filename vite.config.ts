@@ -14,7 +14,8 @@ export default defineConfig({
         name: 'Live Stream Helper',
         description: 'Live Stream Helper.',
         author: 'impossible98',
-        homepageURL: 'https://codeup.aliyun.com/6476c4e4b44b3d9a1d163598/monkey/livestream-helper',
+        homepageURL:
+          'https://github.com/impossible98/livestream-helper-extension',
         license: 'MIT',
         // https://greasyfork.org/en/scripts/501655-live-stream-helper
       },
